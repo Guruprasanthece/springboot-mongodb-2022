@@ -10,4 +10,5 @@ public class SpringmongodbApplication {
 		SpringApplication.run(SpringmongodbApplication.class, args);
 	}
 
+	//TEST commit
 }
